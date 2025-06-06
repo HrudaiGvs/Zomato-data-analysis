@@ -284,3 +284,8 @@ FROM zomato_dataset;
 ## Conclusion:
 
 This project gave me a clear picture of how people dine and what they prefer in different cities. It wasn’t just about running SQL queries—it was about using data to understand real customer behavior, restaurant trends, and pricing strategies. Working on this helped me practice key SQL concepts like grouping, filtering, ranking, and handling real-world data. More importantly, I saw how data can answer important business questions, and that’s what makes analysis valuable. Whether it’s for a food delivery app or a restaurant chain, these insights can help make smarter decisions.
+
+# Author
+## Hrudai
+BBA Graduate | Aspiring Data Analyst
+SQL | Excel | Business Analysis
